@@ -1,0 +1,76 @@
+START
+
+Display "Welcome to CampusTrack"
+
+REPEAT
+
+    Enter student ID
+    Enter student name 
+    Enter studentage
+    Enter studentemail
+    Enter course, semester and career goal
+
+    Enter marks for:
+        Java
+        SQL
+        Web Technology
+        Aptitude
+        Communication
+
+    Calculate total marks
+    Calculate percentage
+
+    IF any subject mark is below 35 OR percentage is below 40
+        Academic Result = FAILED
+    ELSE
+        Academic Result = PASSED
+        Calculate Grade
+    END IF
+
+    Enter total classes
+    Enter attended classes
+    Calculate attendance percentage
+
+    IF attendance is 75% or more
+        Attendance Status = REGULAR
+    ELSE
+        Attendance Status = SHORTAGE
+    END IF
+
+    Enter assignment scores
+    Calculate assignment average
+
+    IF assignment average is 5 or more
+        Assignment Status = SATISFACTORY
+    ELSE
+        Assignment Status = NEEDS IMPROVEMENT
+    END IF
+
+    Calculate scholarship based on marks and attendance
+
+    Calculate final semester fee
+    Enter amount paid
+    Calculate remaining fee
+
+    IF academic result is PASSED
+       AND attendance is 75% or more
+       AND assignment is satisfactory
+       AND fee is fully paid
+
+        Final Status = CLEARED FOR NEXT SEMESTER
+
+    ELSE
+        Final Status = ACTION REQUIRED
+    END IF
+
+    Display complete student report
+
+    Display failed conditions and recommendations
+
+    Ask "Do you want to process another student?"
+
+UNTIL user chooses NO
+
+Display "Thank you for using CampusTrack"
+
+END

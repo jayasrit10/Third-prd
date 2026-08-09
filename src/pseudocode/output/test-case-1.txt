@@ -1,0 +1,52 @@
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                   : STU101
+Student Name                 : arya
+Age                          : 20
+Email                        : arya@gmail.com
+Course                       : B.E/B.Tech
+Semester                     : 4
+Career Goal                  : Become a java backend developer
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                   : 88
+SQL Marks                    : 82
+Web Technology Marks         : 80
+Aptitude Marks               : 78
+Communication Marks          : 78
+Total Marks                  : 406/500
+Percentage                   : 81.20%
+Academic Result              : PASSED
+Grade                        : A
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted            : 120
+Classes Attended             : 102
+Attendance Percentage        : 85.00%
+Attendance Status            : REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments            : 5
+Assignment Total             : 41
+Assignment Average           : 8.20
+Assignment Status            : SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee            : ?50000.00
+Scholarship Percentage       : 5%
+Scholarship Amount           : ?2500.00
+Final Payable Fee            : ?47500.00
+Amount Paid                  : ?47500.00
+Fee Balance                  : ?0.00
+Fee Status                   : PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance           : CLEARED FOR NEXT SEMESTER
+
+---------------- FAILED CONDITIONS -------------------
+None
+
+---------------- RECOMMENDATIONS ---------------------
+- Maintain the current performance in the next semester.
+========================================================
