@@ -1,0 +1,52 @@
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                   : STU105
+Student Name                 : avanya
+Age                          : 20
+Email                        : avanya@gmail.com
+Course                       : B.E/B.Tech
+Semester                     : 4
+Career Goal                  : Become Java Backend Developer
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                   : 85
+SQL Marks                    : 88
+Web Technology Marks         : 89
+Aptitude Marks               : 85
+Communication Marks          : 89
+Total Marks                  : 436/500
+Percentage                   : 87.20%
+Academic Result              : PASSED
+Grade                        : A+
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted            : 120
+Classes Attended             : 104
+Attendance Percentage        : 86.67%
+Attendance Status            : REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments            : 5
+Assignment Total             : 41
+Assignment Average           : 8.20
+Assignment Status            : SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee            : ?50000.00
+Scholarship Percentage       : 10%
+Scholarship Amount           : ?5000.00
+Final Payable Fee            : ?45000.00
+Amount Paid                  : ?45000.00
+Fee Balance                  : ?0.00
+Fee Status                   : PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance           : CLEARED FOR NEXT SEMESTER
+
+---------------- FAILED CONDITIONS -------------------
+None
+
+---------------- RECOMMENDATIONS ---------------------
+- Maintain the current performance in the next semester.
+========================================================
